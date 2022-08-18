@@ -1,3 +1,5 @@
-# Chapter 1
+# Chapter 1: The Beginning!
 
-Welcome to the book
+----
+
+Welcome to the book.
