@@ -1,3 +1,3 @@
-# Chapter 3
+# Chapter 3: I am awful
 
-Welcome to the 3rd.
+Welcome to somewhat bad chapter, the 3rd.
