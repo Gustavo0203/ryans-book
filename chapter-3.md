@@ -1,3 +1,3 @@
-# Chapter 3
+# Chapter 3: The Best Chapter!
 
-Welcome to the 3rd.
+Welcome to best Chapter, the 3rd.
